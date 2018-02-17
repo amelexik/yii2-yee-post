@@ -12,7 +12,8 @@
     "yeesoft/yii2-yee-core": "~0.1.0",
     "yeesoft/yii2-yee-media": "~0.1.0",
     "paulzi/yii2-nested-intervals": "^1.0",
-    "nicolasbize/magicsuggest": "~2.0"
+    "nicolasbize/magicsuggest": "~2.0",
+    "zelenin/yii2-slug-behavior": "~1.5.1"
   },
   "autoload": {
     "psr-4": {
